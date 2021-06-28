@@ -67,7 +67,6 @@ upev.plot()
 注
 1.[3]证明了最小化模型的uplift和z的MSE 等价于最小化模型的uplift和真实的uplift。
 
-
 参考文献和扩展资料：
 https://humboldt-wi.github.io/blog/research/theses/uplift_modeling_blogpost/
 R包
