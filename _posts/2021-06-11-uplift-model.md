@@ -13,12 +13,27 @@ Uplift models用于预测一个treatment的增量反馈价值。举个例子来�
 
 Uplift models预测增量值，也就是lift的部分：
 
+<br>
+<img src="/img/article/uplift1.svg">
+<br>
+
 而传统模型通常直接预测目标：
 
+<br>
+<img src="/img/article/uplift2.svg">
+<br>
 这里我们用用户买不买来举个例子（但这里的目标可以根据具体场景改变）。个体在面对treated或者untreated之后的反应可以分为下面四种：
+
+<br>
+<img src="/img/article/uplift3.jpg" width = "250" height = "250">
+<br>
 
 在一个理想的世界中我们能够将每一个个体根据类型划分，然后找到“persuadables”的那一波人，也就是投资汇报率最高的那一波人。对于“sleeping dogs”的那一波人肯定不是营销的目标人群。但是在现实生活中我们却没有办法准确的判断一个人是属于哪种类型，因为我们不可能对同一个用户treated或者notreated。但是借助统计和机器学习的知识，我们就可以得到相似的用户大致会怎么反应。这就是uplift模型的核心，每一个用户会得到一个位于-1到1的lift score，用于指导用户人群的选择。
 因此整个问题可以表述为：
+
+<br>
+<img src="/img/article/uplift4.jpg" width = "600" height = "400" >
+<br>
 
 ## 2 方法
 ### 2.1 two model
@@ -55,6 +70,10 @@ up.randomized_search(n_iter=200)
 up.fit(** up.rand_search_.best_params_)
 up.plot(plot_type=’cgains’, show_practical_max=True, show_no_dogs=True)
 
+<br>
+<img src="/img/article/uplift5.jpg" width = "600" height = "400" >
+<br>
+
 ## Model 评估
 假如你需要自己做模型评估，就需要三个向量：
 * Treatment: 0, 1 list，用来表征实例在控制组还是对照组；
@@ -64,6 +83,8 @@ up.plot(plot_type=’cgains’, show_practical_max=True, show_no_dogs=True)
 from pylift import UpliftEval
 upev = UpliftEval(treatment, outcome, predictions, n_bins=20)
 upev.plot()
+
+
 注
 1.[3]证明了最小化模型的uplift和z的MSE 等价于最小化模型的uplift和真实的uplift。
 
