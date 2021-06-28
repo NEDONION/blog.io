@@ -5,6 +5,8 @@ description: "Jiacheng Hu "
 header-img: "img/green.jpg"
 ---
 
+<img src="/img/Profile-Picture-yuan.png" width = "250" height = "250" alt="" align=center />
+
 I am a master student and will graduate in 2022. I had nearly one year work experience in a Chinese high-tech company (kuaishou) as a Machine Learning Engineer and my work areas were E-commerce Marketing, Livestreaming, and Commodity Recommendation System. Seeking SDE/MLE internship in high-tech companies.
 
 ### Skills:
