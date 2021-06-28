@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "我是胡嘉诚 " 
+description: "Jiacheng Hu " 
 header-img: "img/green.jpg"
 ---
 
