@@ -9,7 +9,7 @@ url: "https://nedonion.github.io"  # 此处填写你的博客地址
 # About/contact
 owner: 
   name: "Jiacheng Hu" # 填写作者信息：名字
-  email: jhu10@tulane.edu # 填写作者信息：邮箱
+  email: 'jhu10@tulane.edu' # 填写作者信息：邮箱
   bio: "私域天地" # 填写作者信息：博客描述
 
 # Data
@@ -59,6 +59,16 @@ google_analytics:  # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+
+<div id="home">
+    <h2>All Posts</h2>
+    <ul class="posts">
+        {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.*title* }}</a></li>
+        {% endfor %}
+    </ul>
+    </div>
+
 
 # Links to include in footer navigation
 
