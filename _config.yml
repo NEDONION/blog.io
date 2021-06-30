@@ -8,6 +8,9 @@ google_analytics:
 tagline: "cn"  
 theme: jekyll-theme-cayman
 
+# Gems
+gems:
+  - jekyll-paginate
 
 # About/contact
 owner: 
