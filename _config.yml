@@ -42,14 +42,15 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 timezone: Asia/Shanghai
 
 # Defaults for posts
-defaults:
+
+#defaults:
   -
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Jiacheng Hu" # 你的名字
+ #   scope: 
+  #    path: ""
+   #   type: "posts"
+    #values:
+     # layout: "post"
+      #author: "Jiacheng Hu" # 你的名字
       #header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
