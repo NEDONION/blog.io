@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一文读懂uplift model
+title: Understanding and Brief Description of Uplift Model
 date: 2021-6-11
 categories: blog
 tags: [Machine Learning, Causal Inference]
