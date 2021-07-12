@@ -4,10 +4,8 @@ title: 一文读懂uplift model
 date: 2021-6-11
 categories: blog
 tags: [Machine Learning, Causal Inference]
-description: 文章金句。
+description: Uplift models用于预测一个treatment的增量反馈价值。举个例子来说，假如我们想知道对一个用户展现一个广告的价值，通常的模型只能告诉我们用户在展示广告后的购买意愿很强，但事实很有可能是他们在被展示广告之前就已经很想购买了。Uplift models聚焦于用户被展示广告后购买意愿的增量。
 ---
-
-Uplift models用于预测一个treatment的增量反馈价值。举个例子来说，假如我们想知道对一个用户展现一个广告的价值，通常的模型只能告诉我们用户在展示广告后的购买意愿很强，但事实很有可能是他们在被展示广告之前就已经很想购买了。Uplift models聚焦于用户被展示广告后购买意愿的增量。
 
 ## 1 背景和问题定义
 
