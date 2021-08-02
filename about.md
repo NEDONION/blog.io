@@ -10,15 +10,21 @@ header-img: "img/green.jpg"
 <br>
 I am a master's student and will graduate in May 2022. I had nearly one-year work experience in a Chinese high-tech company (Kuaishou) as a Machine Learning Engineer and my work areas were E-commerce Marketing, Livestreaming, and Commodity Recommendation System. Seeking MLE full-time job in U.S. high-tech companies.
 
+***
+
 ## Skills:
 + **Machine Learning Models**: Logistic Regression, Random Forest, XGBoost, LightGBM, Neural Networks (CNNs, RNNs), Uplift, Factorization Machines
 + **Programming**: Python (Scikit-Learn, TensorFlow, Keras, Pytorch), HiveSQL, R, Spark
 + **Business Areas**: Recommendation System, E-commerce marketing, Livestreaming
 + **Tools**: Git, Bash(Linux), HDFS, Redis
 
+***
+
 ## Contact:
 * **Email**: nedjiachenghu@gmail.com
 * **LinkedIn**: <https://www.linkedin.com/in/jiacheng-hu-456553198/>
+
+***
 
 ## Education Experience:
 + **Tulane University**
