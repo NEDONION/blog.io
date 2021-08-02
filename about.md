@@ -37,7 +37,7 @@ I am a master's student and will graduate in May 2022. I had nearly one-year wor
     - Computer Compose Principle
     - Principle and Application of Big Data Technology
     - High-Performance MySQL
- + **Peking University**(Visiting Student)
+ + **Peking University** (Visiting Student)
     - 2020.09 - 2021.05
     - Major: Business Analytics
  + **China Three Gorges University**
