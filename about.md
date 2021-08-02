@@ -27,7 +27,7 @@ I am a master's student and will graduate in May 2022. I had nearly one-year wor
 ***
 
 ## Education Experience:
-+ **Tulane University**
++ **Tulane University** (M.S.)
   - 2020.09 - 2022.05
   - Major: Business Analytics
   - GPA: 3.9/4.0
@@ -46,7 +46,7 @@ I am a master's student and will graduate in May 2022. I had nearly one-year wor
  + **Peking University** (Visiting Student)
     - 2020.09 - 2021.05
     - Major: Business Analytics
- + **China Three Gorges University**
+ + **China Three Gorges University** (B.S.)
     - 2015.09 - 2019.06
     - Major: Electrical Engineering and Automation
     - Related course:
