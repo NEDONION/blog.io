@@ -18,7 +18,7 @@ I am a master's student and will graduate in May 2022. I had nearly one-year wor
 
 ## Contact:
 * **Email**: nedjiachenghu@gmail.com
-* **LinkedIn**: <font color=Blue>[https://www.linkedin.com/in/jiacheng-hu-456553198/](https://www.linkedin.com/in/jiacheng-hu-456553198/)</font>
+* **LinkedIn**: <https://www.linkedin.com/in/jiacheng-hu-456553198/>
 
 ## Education Experience:
 + **Tulane University**
