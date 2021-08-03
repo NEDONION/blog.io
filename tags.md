@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Tags"
 description: "我的文章基因库"  
 ---
