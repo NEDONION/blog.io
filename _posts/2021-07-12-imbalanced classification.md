@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: default
 title: Imbalanced Classification Problem
 date: 2021-7-12
 categories: blog
 tags: [Machine Learning, Classification]
-description: 文章金句。
 ---
 
 ## 一、什么是类不平衡
