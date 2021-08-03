@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About"
-description: "Jiacheng Hu " 
+title: "Welcome To My Homepage"
+description: "Machine Learning Engineer @ Kuaishou Community Science Group" 
 ---
 <div align=center>
 <img src="/img/ProfilePictureMaker.png" width = "225" height = "225" alt="" align=center />
