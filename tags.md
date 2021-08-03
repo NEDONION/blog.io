@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "Tags"
+description: "我的文章基因库"  
 ---
 
 <div id='tag_cloud'>
