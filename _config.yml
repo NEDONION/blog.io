@@ -1,6 +1,6 @@
 # Site settings
 
-header-img: "img/green.jpg"
+#header-img: "img/green.jpg"
 title: 'Welcome To My Homepage' # 你的博客名字，可以定义修订
 description: 'Machine Learning Engineer @ Kuaishou' # 一句话描述你的博客
 show_downloads: false
@@ -15,7 +15,7 @@ gems:
 # About/contact
 owner: 
   name: "Jiacheng Hu" # 填写作者信息：名字
-  email: 'nedjiachenghu' # 填写作者信息：邮箱
+  email: 'nedjiachenghu@gmail.com' # 填写作者信息：邮箱
   bio: "私域天地" # 填写作者信息：博客描述
 
 # Data
