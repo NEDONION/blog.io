@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Understanding and Brief Description of Uplift Model
 date: 2021-6-11
 categories: blog
