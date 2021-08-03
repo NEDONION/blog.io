@@ -2,7 +2,6 @@
 layout: page
 title: "About"
 description: "Jiacheng Hu " 
-header-img: "img/green.jpg"
 ---
 <div align=center>
 <img src="/img/ProfilePictureMaker.png" width = "225" height = "225" alt="" align=center />
