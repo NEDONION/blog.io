@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_page
 title: "Archive"
 description: "文章归档"
 ---
