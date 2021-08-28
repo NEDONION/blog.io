@@ -2,7 +2,7 @@
 title: 'Welcome To My Homepage' # 你的博客名字，可以定义修订
 description: 'Machine Learning Engineer @ Kuaishou' # 一句话描述你的博客
 show_downloads: false
-google_analytics:
+google_analytics: G-VWPZYPZJZM
 theme: jekyll-theme-cayman
 
 # Gems
