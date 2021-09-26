@@ -14,7 +14,7 @@ I am a master's student and will graduate in May 2022. I had nearly one-year wor
 ## Skills:
 + **Machine Learning Models**: Logistic Regression, Random Forest, XGBoost, LightGBM, Neural Networks (CNNs, RNNs), Uplift, Factorization Machines
 + **Programming**: Python (Scikit-Learn, TensorFlow, Keras, Pytorch), HiveSQL, R, HTML, CSS, Golang, Java
-+ **Business Areas**: Recommendation System, E-commerce marketing, Livestreaming
++ **Focus Areas**: Recommendation System, E-commerce marketing, Livestreaming
 + **Tools**: Git, Bash(Linux), HDFS, Redis, AB Testing, Spark, gRPC service
 
 ***
